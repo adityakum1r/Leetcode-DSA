@@ -15,19 +15,23 @@ public:
         if(dp[i][j][count]!=-1){
             return dp[i][j][count];
         }
+        bool right = false;
+        bool down = false;
         if(j<n-1){
-            if(solve(i,j+1,count,grid,dp)){
+            // if(solve(i,j+1,count,grid,dp)){
                 
-                return dp[i][j][count] = true;
-            }
+            //     return dp[i][j][count] = true;
+            // }
+             right = solve(i,j+1,count,grid,dp);
         }
         if(i<m-1){
-            if(solve(i+1,j,count,grid,dp))
-                return dp[i][j][count] = true;
+            // if(solve(i+1,j,count,grid,dp))
+            //     return dp[i][j][count] = true;
+            down = solve(i+1,j,count,grid,dp);
             
         }
 
-        return dp[i][j][count] = false;
+        return dp[i][j][count] = right||down;
     }
     bool hasValidPath(vector<vector<char>>& grid) {
         int m = grid.size();
