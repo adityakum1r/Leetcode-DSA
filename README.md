@@ -58,6 +58,7 @@
 | [0509-fibonacci-number](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/adityakum1r/Leetcode-DSA/tree/master/1137-n-th-tribonacci-number) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adityakum1r/Leetcode-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Matrix
 |  |
@@ -80,6 +81,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/adityakum1r/Leetcode-DSA/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -89,4 +91,5 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/adityakum1r/Leetcode-DSA/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
