@@ -29,6 +29,7 @@
 | [0020-valid-parentheses](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
+| [0091-decode-ways](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0091-decode-ways) |
 | [0678-valid-parenthesis-string](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -70,6 +71,7 @@
 | [0045-jump-game-ii](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0509-fibonacci-number) |
