@@ -13,6 +13,7 @@
 | [0198-house-robber](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0213-house-robber-ii) |
 | [0377-combination-sum-iv](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0377-combination-sum-iv) |
+| [0494-target-sum](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0518-coin-change-ii) |
 | [0740-delete-and-earn](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0746-min-cost-climbing-stairs) |
@@ -78,6 +79,7 @@
 | [0213-house-robber-ii](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0279-perfect-squares) |
 | [0377-combination-sum-iv](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0377-combination-sum-iv) |
+| [0494-target-sum](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0678-valid-parenthesis-string) |
@@ -97,6 +99,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0022-generate-parentheses) |
+| [0494-target-sum](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0494-target-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -134,6 +137,7 @@
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0279-perfect-squares) |
+| [0494-target-sum](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
@@ -144,4 +148,8 @@
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0279-perfect-squares) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
