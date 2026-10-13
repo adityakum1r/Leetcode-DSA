@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0055-jump-game) |
@@ -103,6 +104,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0678-valid-parenthesis-string) |
@@ -128,6 +130,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0027-remove-element) |
 ## Enumeration
 |  |
