@@ -19,6 +19,7 @@
 | [0740-delete-and-earn](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1049-last-stone-weight-ii](https://github.com/adityakum1r/Leetcode-DSA/tree/master/1049-last-stone-weight-ii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adityakum1r/Leetcode-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/adityakum1r/Leetcode-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Hash Table
@@ -86,6 +87,7 @@
 | [0678-valid-parenthesis-string](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0740-delete-and-earn](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [1049-last-stone-weight-ii](https://github.com/adityakum1r/Leetcode-DSA/tree/master/1049-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/adityakum1r/Leetcode-DSA/tree/master/1137-n-th-tribonacci-number) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adityakum1r/Leetcode-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Matrix
@@ -142,6 +144,7 @@
 | [0279-perfect-squares](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0279-perfect-squares) |
 | [0494-target-sum](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0518-coin-change-ii) |
+| [1049-last-stone-weight-ii](https://github.com/adityakum1r/Leetcode-DSA/tree/master/1049-last-stone-weight-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -155,4 +158,5 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0494-target-sum) |
+| [1049-last-stone-weight-ii](https://github.com/adityakum1r/Leetcode-DSA/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->
