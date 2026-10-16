@@ -14,6 +14,7 @@
 | [0139-word-break](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0377-combination-sum-iv](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0377-combination-sum-iv) |
 | [0494-target-sum](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0518-coin-change-ii) |
@@ -87,6 +88,7 @@
 | [0198-house-robber](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0377-combination-sum-iv](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0377-combination-sum-iv) |
 | [0494-target-sum](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0509-fibonacci-number) |
@@ -184,4 +186,12 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityakum1r/Leetcode-DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0300-longest-increasing-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
