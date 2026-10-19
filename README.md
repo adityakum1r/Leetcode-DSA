@@ -23,6 +23,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0983-minimum-cost-for-tickets](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0983-minimum-cost-for-tickets) |
 | [1049-last-stone-weight-ii](https://github.com/adityakum1r/Leetcode-DSA/tree/master/1049-last-stone-weight-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/adityakum1r/Leetcode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adityakum1r/Leetcode-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/adityakum1r/Leetcode-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityakum1r/Leetcode-DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -190,6 +191,7 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0300-longest-increasing-subsequence) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/adityakum1r/Leetcode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -214,4 +216,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0023-merge-k-sorted-lists) |
+## Sorting
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/adityakum1r/Leetcode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
