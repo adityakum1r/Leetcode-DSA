@@ -49,6 +49,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/adityakum1r/Leetcode-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/adityakum1r/Leetcode-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1143-longest-common-subsequence](https://github.com/adityakum1r/Leetcode-DSA/tree/master/1143-longest-common-subsequence) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adityakum1r/Leetcode-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityakum1r/Leetcode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
@@ -101,6 +102,7 @@
 | [0983-minimum-cost-for-tickets](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0983-minimum-cost-for-tickets) |
 | [1049-last-stone-weight-ii](https://github.com/adityakum1r/Leetcode-DSA/tree/master/1049-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/adityakum1r/Leetcode-DSA/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/adityakum1r/Leetcode-DSA/tree/master/1143-longest-common-subsequence) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adityakum1r/Leetcode-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Matrix
 |  |
@@ -222,4 +224,8 @@
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/adityakum1r/Leetcode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/adityakum1r/Leetcode-DSA/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
