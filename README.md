@@ -11,6 +11,7 @@
 | [0027-remove-element](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0045-jump-game-ii](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0055-jump-game) |
 | [0139-word-break](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0198-house-robber) |
@@ -84,6 +85,7 @@
 | [0022-generate-parentheses](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0091-decode-ways) |
@@ -208,6 +210,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
