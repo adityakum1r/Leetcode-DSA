@@ -53,6 +53,7 @@
 | [1143-longest-common-subsequence](https://github.com/adityakum1r/Leetcode-DSA/tree/master/1143-longest-common-subsequence) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adityakum1r/Leetcode-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityakum1r/Leetcode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2409-count-days-spent-together](https://github.com/adityakum1r/Leetcode-DSA/tree/master/2409-count-days-spent-together) |
 ## Stack
 |  |
 | ------- |
@@ -135,6 +136,7 @@
 | [0279-perfect-squares](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/adityakum1r/Leetcode-DSA/tree/master/1137-n-th-tribonacci-number) |
+| [2409-count-days-spent-together](https://github.com/adityakum1r/Leetcode-DSA/tree/master/2409-count-days-spent-together) |
 ## Recursion
 |  |
 | ------- |
