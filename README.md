@@ -36,6 +36,7 @@
 | [0001-two-sum](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0001-two-sum) |
 | [0139-word-break](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0740-delete-and-earn](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0740-delete-and-earn) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityakum1r/Leetcode-DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -47,6 +48,7 @@
 | [0032-longest-valid-parentheses](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0091-decode-ways](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0139-word-break) |
+| [0242-valid-anagram](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0678-valid-parenthesis-string](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -231,6 +233,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/adityakum1r/Leetcode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Longest Common Subsequence
 |  |
