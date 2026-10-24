@@ -16,6 +16,7 @@
 | [0139-word-break](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0300-longest-increasing-subsequence](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0377-combination-sum-iv](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0377-combination-sum-iv) |
 | [0494-target-sum](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0494-target-sum) |
@@ -34,6 +35,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0001-two-sum) |
 | [0139-word-break](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0139-word-break) |
+| [0217-contains-duplicate](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0740-delete-and-earn](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0740-delete-and-earn) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityakum1r/Leetcode-DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -228,6 +230,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/adityakum1r/Leetcode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Longest Common Subsequence
 |  |
