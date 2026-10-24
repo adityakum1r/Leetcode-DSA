@@ -66,6 +66,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -248,4 +249,16 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0202-happy-number) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
