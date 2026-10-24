@@ -38,6 +38,7 @@
 | [0217-contains-duplicate](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0740-delete-and-earn](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0740-delete-and-earn) |
+| [0771-jewels-and-stones](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0771-jewels-and-stones) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityakum1r/Leetcode-DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## String
@@ -50,6 +51,7 @@
 | [0139-word-break](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0678-valid-parenthesis-string](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0678-valid-parenthesis-string) |
+| [0771-jewels-and-stones](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0771-jewels-and-stones) |
 | [0856-score-of-parentheses](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/adityakum1r/Leetcode-DSA/tree/master/1021-remove-outermost-parentheses) |
