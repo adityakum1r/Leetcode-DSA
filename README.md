@@ -143,6 +143,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0202-happy-number) |
 | [0279-perfect-squares](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0279-perfect-squares) |
@@ -152,6 +153,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
