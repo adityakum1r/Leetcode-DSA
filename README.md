@@ -26,6 +26,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0983-minimum-cost-for-tickets](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0983-minimum-cost-for-tickets) |
 | [1049-last-stone-weight-ii](https://github.com/adityakum1r/Leetcode-DSA/tree/master/1049-last-stone-weight-ii) |
+| [1254-number-of-closed-islands](https://github.com/adityakum1r/Leetcode-DSA/tree/master/1254-number-of-closed-islands) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/adityakum1r/Leetcode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adityakum1r/Leetcode-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/adityakum1r/Leetcode-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -119,6 +120,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/adityakum1r/Leetcode-DSA/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adityakum1r/Leetcode-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Prefix Sum
 |  |
@@ -185,6 +187,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0279-perfect-squares](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0279-perfect-squares) |
+| [1254-number-of-closed-islands](https://github.com/adityakum1r/Leetcode-DSA/tree/master/1254-number-of-closed-islands) |
 ## 0-1 Knapsack
 |  |
 | ------- |
@@ -263,10 +266,15 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [1254-number-of-closed-islands](https://github.com/adityakum1r/Leetcode-DSA/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/adityakum1r/Leetcode-DSA/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
