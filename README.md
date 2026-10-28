@@ -15,6 +15,7 @@
 | [0053-maximum-subarray](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0055-jump-game) |
 | [0139-word-break](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0217-contains-duplicate) |
@@ -38,6 +39,7 @@
 | [0001-two-sum](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0242-valid-anagram) |
@@ -235,6 +237,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -251,6 +254,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/adityakum1r/Leetcode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -285,4 +289,12 @@
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/adityakum1r/Leetcode-DSA/tree/master/1254-number-of-closed-islands) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
