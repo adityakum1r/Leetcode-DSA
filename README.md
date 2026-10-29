@@ -161,6 +161,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0203-remove-linked-list-elements) |
 | [0509-fibonacci-number](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -232,6 +233,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0203-remove-linked-list-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
