@@ -23,6 +23,7 @@
 | [0377-combination-sum-iv](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0377-combination-sum-iv) |
 | [0494-target-sum](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0518-coin-change-ii) |
+| [0705-design-hashset](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0705-design-hashset) |
 | [0740-delete-and-earn](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -43,6 +44,7 @@
 | [0202-happy-number](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0242-valid-anagram) |
+| [0705-design-hashset](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0705-design-hashset) |
 | [0740-delete-and-earn](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0740-delete-and-earn) |
 | [0771-jewels-and-stones](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0771-jewels-and-stones) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -234,6 +236,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0203-remove-linked-list-elements) |
+| [0705-design-hashset](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0705-design-hashset) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -299,4 +302,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0169-majority-element) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
