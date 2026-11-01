@@ -21,6 +21,7 @@
 | [0217-contains-duplicate](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0300-longest-increasing-subsequence](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0377-combination-sum-iv](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0377-combination-sum-iv) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0494-target-sum](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0518-coin-change-ii) |
 | [0705-design-hashset](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0705-design-hashset) |
@@ -156,6 +157,7 @@
 | [0070-climbing-stairs](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0202-happy-number) |
 | [0279-perfect-squares](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0279-perfect-squares) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/adityakum1r/Leetcode-DSA/tree/master/1137-n-th-tribonacci-number) |
 | [2409-count-days-spent-together](https://github.com/adityakum1r/Leetcode-DSA/tree/master/2409-count-days-spent-together) |
