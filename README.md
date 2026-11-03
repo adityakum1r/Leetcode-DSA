@@ -36,6 +36,7 @@
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adityakum1r/Leetcode-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/adityakum1r/Leetcode-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityakum1r/Leetcode-DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/adityakum1r/Leetcode-DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -163,6 +164,7 @@
 | [0509-fibonacci-number](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/adityakum1r/Leetcode-DSA/tree/master/1137-n-th-tribonacci-number) |
 | [2409-count-days-spent-together](https://github.com/adityakum1r/Leetcode-DSA/tree/master/2409-count-days-spent-together) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/adityakum1r/Leetcode-DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Recursion
 |  |
 | ------- |
