@@ -62,6 +62,7 @@
 | [0091-decode-ways](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0139-word-break) |
+| [0151-reverse-words-in-a-string](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0678-valid-parenthesis-string](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0771-jewels-and-stones](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0771-jewels-and-stones) |
@@ -183,6 +184,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0027-remove-element) |
+| [0151-reverse-words-in-a-string](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0202-happy-number) |
 ## Enumeration
 |  |
