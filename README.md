@@ -146,6 +146,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0022-generate-parentheses) |
+| [0113-path-sum-ii](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0113-path-sum-ii) |
 | [0494-target-sum](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0494-target-sum) |
 ## Greedy
 |  |
@@ -291,12 +292,14 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0113-path-sum-ii](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0113-path-sum-ii](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [1254-number-of-closed-islands](https://github.com/adityakum1r/Leetcode-DSA/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
@@ -304,6 +307,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0113-path-sum-ii](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 ## Union-Find
 |  |
