@@ -256,6 +256,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0203-remove-linked-list-elements) |
 | [0705-design-hashset](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0705-design-hashset) |
 ## Divide and Conquer
