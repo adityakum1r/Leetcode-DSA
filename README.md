@@ -16,6 +16,7 @@
 | [0049-group-anagrams](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0055-jump-game) |
+| [0118-pascals-triangle](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0169-majority-element) |
@@ -119,6 +120,7 @@
 | [0070-climbing-stairs](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0213-house-robber-ii) |
