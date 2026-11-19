@@ -48,6 +48,7 @@
 | [0001-two-sum](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0202-happy-number) |
@@ -66,6 +67,7 @@
 | [0022-generate-parentheses](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0139-word-break) |
@@ -345,5 +347,6 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
