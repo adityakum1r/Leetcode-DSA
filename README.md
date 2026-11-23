@@ -318,6 +318,7 @@
 | [0113-path-sum-ii](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -328,6 +329,7 @@
 | [0113-path-sum-ii](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/adityakum1r/Leetcode-DSA/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
@@ -340,6 +342,7 @@
 | [0113-path-sum-ii](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -366,4 +369,8 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
