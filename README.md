@@ -74,6 +74,7 @@
 | [0139-word-break](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0257-binary-tree-paths) |
 | [0678-valid-parenthesis-string](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0771-jewels-and-stones](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0771-jewels-and-stones) |
 | [0856-score-of-parentheses](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0856-score-of-parentheses) |
@@ -157,6 +158,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0022-generate-parentheses) |
 | [0113-path-sum-ii](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0494-target-sum) |
 ## Greedy
 |  |
@@ -322,6 +324,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -336,6 +339,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/adityakum1r/Leetcode-DSA/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
@@ -352,6 +356,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Union-Find
 |  |
