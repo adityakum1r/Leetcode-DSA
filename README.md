@@ -16,6 +16,7 @@
 | [0049-group-anagrams](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0055-jump-game) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0162-find-peak-element) |
@@ -50,6 +51,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0139-word-break](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0202-happy-number) |
@@ -279,6 +281,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
 |  |
@@ -318,6 +321,7 @@
 | [0101-symmetric-tree](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0113-path-sum-ii) |
@@ -350,6 +354,7 @@
 | [0101-symmetric-tree](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/adityakum1r/Leetcode-DSA/tree/master/0113-path-sum-ii) |
